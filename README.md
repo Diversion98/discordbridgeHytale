@@ -51,7 +51,7 @@ Setup: The plugin will automatically create the linked_players table on the firs
 
 🎮 Commands & Permissions
 
-Command      Usage
-/link <code> Link your Discord account.
-/unlink      Unlink your Discord account.
-/checklink   View your current link status.
+Command              Usage
+/link <code>         Link your Discord account.
+/unlink              Unlink your Discord account.
+/checklink           View your current link status.
