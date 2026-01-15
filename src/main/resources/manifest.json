@@ -1,16 +1,17 @@
 {
-  "Group": "com.marblehalledgaming",
+  "Group": "MarbleHalledGaming",
   "Name": "DiscordBridgeHT",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "Connecting Discord and Hytale",
   "Authors": [
     {
-      "Name": "rlDiversion"
+      "Name": "rlDiversion",
+      "Url": "https://marblehalledgaming.com"
     }
   ],
   "Website": "https://curseforge.com",
   "ServerVersion": "*",
   "entryPoint": "com.marblehalledgaming.DiscordBridgeHT",
-  "IncludesAssetPack": false,
+  "IncludesAssetPack": true,
   "Main": "com.marblehalledgaming.DiscordBridgeHT"
 }
