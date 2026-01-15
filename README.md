@@ -38,7 +38,8 @@ To fetch player avatars and read message content, you must enable these settings
 
 💾 Storage:
 
-JSON vs SQLBy default, the plugin uses JSON for easy setup, but it supports SQLite/MySQL for larger networks.
+JSON vs SQL
+By default, the plugin uses JSON for easy setup, but it supports SQLite/MySQL for larger networks.
 
 JSON (Default)File: LinkData.json
 Pros: No setup required, human-readable.
